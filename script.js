@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      4.3
 // @description  Floating copy button for code blocks, minimize buttons for messages and user inputs, all chat copy/download, and tooltip for truncated labels in lmarena.ai / arena.ai
-// @author       Mohammad (via Grok)
+// @author       Mohammad Yamini
 // @match        https://lmarena.ai/*
 // @match        https://arena.ai/*
 // @grant        none
